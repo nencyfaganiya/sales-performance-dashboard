@@ -122,44 +122,9 @@ This project demonstrates ability to:
 - Provide actionable recommendations based on data
 - Create executive-ready reports and visualizations
 
-## 📝 Business Intelligence Skills Demonstrated
-
-- Data extraction, transformation, and loading (ETL)
-- Data quality assurance and cleaning
-- DAX-style calculations in Python
-- KPI design and tracking
-- Data storytelling and visualization
-- Automated reporting workflows
-- Statistical analysis and trend identification
-
-## 🎓 Learning Outcomes
-
-This project showcases proficiency in:
-- End-to-end BI solution development
-- Python for data analytics
-- Power BI dashboard design principles
-- Business metrics and KPI tracking
-- Data-driven decision making
-- Professional documentation practices
-
 ## 🤝 Contributing
 
 Suggestions and improvements are welcome! Feel free to:
 - Open an issue for bugs or feature requests
 - Submit pull requests with enhancements
 - Share feedback on the analysis approach
-
-## 📧 Contact
-
-**Nency Faganiya**
-- Email: nencyfaganiya200029@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-*This project is part of my Business Intelligence portfolio demonstrating practical BI analytics skills applicable to real-world business challenges.*
