@@ -1,0 +1,5 @@
+customer_segment,revenue,profit,transactions,unique_customers,avg_revenue_per_customer,avg_transaction_value
+Enterprise,14698922.79,6656268.82,1251,1165,12617.1,11749.74
+Government,1546092.71,703132.49,1294,1196,1292.72,1194.82
+Individual,1633491.51,731413.84,1235,1149,1421.66,1322.67
+Smb,6058993.68,2744032.71,1220,1146,5287.08,4966.39

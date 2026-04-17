@@ -1,0 +1,21 @@
+product_category,product_name,revenue,profit,units_sold,transactions,avg_transaction_value
+Electronics,Bluetooth Headphones,2761849.83,1241091.42,3337,283,9759.19
+Electronics,Webcam HD,2694021.32,1248617.03,3155,269,10014.95
+Electronics,Laptop Pro,2673386.48,1242194.59,2993,243,11001.59
+Electronics,Wireless Mouse,2607432.33,1176398.16,2911,258,10106.33
+Electronics,USB-C Hub,2572040.7,1159443.73,2800,265,9705.81
+Furniture,Filing Cabinet,1379405.43,614203.77,2878,256,5388.3
+Furniture,Office Chair,1370545.89,620419.16,2640,225,6091.32
+Furniture,Desk Lamp,1211360.35,523617.29,2418,236,5132.88
+Furniture,Standing Desk,1164472.44,521924.41,2569,231,5041.01
+Furniture,Bookshelf,1146503.38,514815.25,2384,243,4718.12
+Software,Design Pro,809525.29,366116.29,3030,258,3137.69
+Software,Cloud Storage,763213.78,348038.19,2921,271,2816.29
+Software,Productivity Suite,762977.6,348244.06,2771,262,2912.13
+Software,Security Pack,685220.91,305595.61,2637,247,2774.17
+Software,Project Manager,618308.96,280121.97,2331,222,2785.18
+Stationery,Paper Ream,159874.04,71252.87,2767,259,617.27
+Stationery,Pen Collection,155981.71,71300.32,2877,250,623.93
+Stationery,Stapler,141487.34,64250.01,2517,246,575.15
+Stationery,Notebook Set,133588.3,59876.36,2537,252,530.11
+Stationery,Sticky Notes,126304.61,57327.37,2261,224,563.86
