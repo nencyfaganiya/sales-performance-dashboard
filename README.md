@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard - BI Analytics Project
 
-A comprehensive Business Intelligence solution demonstrating end-to-end data analytics capabilities, from data extraction and transformation to interactive visualization and insights generation.
+A comprehensive Business Intelligence solution demonstrating end-to-end data analytics capabilities, from data extraction and transformation to visualisation and insights generation.
 
 ## 🎯 Project Overview
 
@@ -8,14 +8,13 @@ This project showcases a complete BI workflow for analyzing sales performance da
 - **Data Generation & Cleaning**: Python-based synthetic data creation with realistic business scenarios
 - **ETL Pipeline**: Automated data transformation and quality checks
 - **Advanced Analytics**: KPI calculations, trend analysis, and predictive insights
-- **Interactive Dashboards**: Power BI compatible data models and visualizations
 - **Automated Reporting**: Python scripts for generating executive summaries
 
 ## 🛠️ Technical Stack
 
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Data Storage**: CSV, SQL-ready formats
-- **Visualization**: Power BI (PBIX template included), Python plotting
+- **Visualisation**: Python plotting
 - **Version Control**: Git/GitHub
 - **Documentation**: Markdown, Jupyter Notebooks
 
@@ -34,8 +33,6 @@ sales-performance-dashboard/
 │   └── visualizations.py       # Charts and graphs generation
 ├── notebooks/
 │   └── exploratory_analysis.ipynb  # Interactive data exploration
-├── powerbi/
-│   └── dashboard_template.md   # Power BI dashboard specifications
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
 ```
@@ -102,25 +99,6 @@ python scripts/visualizations.py
 - Regional heatmaps
 - Customer segmentation scatter plots
 - Executive summary dashboards
-
-## 📊 Power BI Dashboard
-
-The Power BI dashboard includes:
-- **Executive Overview**: High-level KPIs and trends
-- **Sales Analysis**: Detailed breakdowns by product, region, and time
-- **Customer Insights**: Segmentation and behavior patterns
-- **Performance Metrics**: Target vs. actual comparisons
-
-*Note: Import the processed data from `data/processed/` into Power BI using the specifications in `powerbi/dashboard_template.md`*
-
-## 🔍 Sample Insights
-
-This project demonstrates ability to:
-- Identify sales trends and seasonal patterns
-- Spot underperforming products or regions
-- Calculate customer retention metrics
-- Provide actionable recommendations based on data
-- Create executive-ready reports and visualizations
 
 ## 🤝 Contributing
 
